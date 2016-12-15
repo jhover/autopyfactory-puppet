@@ -1,0 +1,14 @@
+{
+  "name": "autopyfactory-puppet",
+  "version": "0.1.0",
+  "author": "John Hover",
+  "summary": "Module to configure AutoPyFactory",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jhover/autopyfactory-puppet",
+  "project_page": "https://github.com/jhover/autopyfactory-puppet",
+  "issues_url": "https://github.com/jhover/autopyfactory-puppet/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
